@@ -313,7 +313,7 @@ a.buy-btn{
               <h3> {{$v->nama_produk}}</h3>
             </div>
             <div class="description-prod">
-              <p> {{$v->deskripsi_produk}}</p>
+              <p> {!! nl2br($v->deskripsi_produk) !!}</p>
             </div>
             <div class="card-footer">
                 <div class="category">
