@@ -1,2 +1,3 @@
-# Majoo
-Test
+# Majoo test 
+Instalasi 
+Server menggunakan laragon
