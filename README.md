@@ -4,7 +4,7 @@
 Note: Server pembuatan menggunakan laragon & mysql.
 
 1. Clone project dan copy `env.example` menjadi `.env` (sesuaikan nama db jika perlu) .
-2. install composer jika belum 
+2. install composer pada file project `composer install`
 3. nyalakan server lalu run terminal pada folderproject `php artisan serve` 
 4. lalu run `php artisan key:generate`
 5. lalu buat database mysql dengan nama  `majoo`
